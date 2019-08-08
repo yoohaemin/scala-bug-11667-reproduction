@@ -1,0 +1,6 @@
+.idea
+target
+.bloop
+.metals
+*.code-workspace
+.vscode
